@@ -4,7 +4,7 @@ main:
     url: /academicWork/
 
   - title: "Other musings"
-    url: /talks/    
+    url: /otherMusing/    
     
   - title: "CV"
     url: /pdfs/Long CV.pdf
