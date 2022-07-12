@@ -250,6 +250,24 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+    # _academicWork
+  - scope:
+      path: ""
+      type: academicWork
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+     # _otherMusings
+  - scope:
+      path: ""
+      type: otherMusings
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
 
 # Sass/SCSS
 sass:
