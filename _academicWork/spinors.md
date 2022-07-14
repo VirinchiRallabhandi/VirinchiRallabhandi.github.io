@@ -1,7 +1,7 @@
 ---
 title: "A primer on spinors"
 collection: academicWork
-permalink: /academicWork/
+permalink: /academicWork/spinors
 excerpt: "I provide a general overview of spinors from the point of view of Clifford algebras."
 date: 2021-03-24
 paperurl: 'https://virinchirallabhandi.github.io/pdfs/spinors.pdf'
