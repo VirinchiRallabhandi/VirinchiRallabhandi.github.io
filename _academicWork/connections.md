@@ -2,7 +2,7 @@
 title: "Connections on fibre bundles"
 collection: academicWork
 permalink: /academicWork/connections
-excerpt: "I provide a (currently slightly incomplete) pedagogical discussion of connections on differntiable fibre bundles."
+excerpt: "I provide a (currently slightly incomplete) pedagogical discussion of connections on differentiable fibre bundles."
 date: 2022-04-30
 paperurl: 'https://virinchirallabhandi.github.io/pdfs/connections.pdf'
 ---
