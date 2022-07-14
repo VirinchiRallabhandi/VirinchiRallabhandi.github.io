@@ -1,6 +1,6 @@
 ---
 title: "A primer on spinors"
-collection: Academic work
+collection: academicWork
 permalink: /academicWork/
 excerpt: "I provide a general overview of spinors from the point of view of Clifford algebras."
 date: 2021-03-24
