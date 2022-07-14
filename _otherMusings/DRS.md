@@ -1,6 +1,6 @@
 ---
 title: "Does DRS really give the benefit of the doubt to umpires over batsmen when judging LBWs?"
-collection: Other Musings
+collection: otherMusings
 permalink: /otherMusings/DRS
 excerpt: "I explain how cricket's Decision Review System (DRS) really works when adjudicating Leg Before Wicket (LBW) appeals."
 date: 2021-01-10 
