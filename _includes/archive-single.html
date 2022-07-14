@@ -39,7 +39,7 @@
     {% endif %}
 
         {% if post.collection == 'otherMusings' %}
-          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%d %B %Y" }} </p>
+          <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%d, %B, %Y" }} </p>
         {% elsif post.collection == 'academicWork' %}
           <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%d %B %Y" }} </p>
         {% elsif post.date %}
