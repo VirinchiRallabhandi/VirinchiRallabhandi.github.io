@@ -1,5 +1,5 @@
 ---
-title: "An essay on the flow of benefit of doubt in cricket's DRS"
+title: "Does DRS really give the benefit of the doubt to umpires over batsmen when judging LBWs?"
 collection: Other Musings
 permalink: /otherMusings/DRS
 excerpt: "I explain how cricket's Decision Review System (DRS) really works when adjudicating Leg Before Wicket (LBW) appeals."
