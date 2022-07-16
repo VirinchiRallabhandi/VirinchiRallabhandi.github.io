@@ -2,7 +2,7 @@
 title: "Some doom mongering"
 collection: otherMusings
 permalink: /otherMusings/doomMongering
-excerpt: "This is a copy of the speech I gave in a Cambridge Union emergency debate proposing the (somewhat hysterical) motion, "this house believes we're doomed.""
+excerpt: "This is a copy of the speech I gave in a Cambridge Union emergency debate proposing the (somewhat hysterical) motion, 'this house believes we're doomed.'"
 date: 2022-02-17 
 paperurl: 'https://virinchirallabhandi.github.io/pdfs/doomMongering.pdf'
 ---
