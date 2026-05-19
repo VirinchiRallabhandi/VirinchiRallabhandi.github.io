@@ -2,7 +2,7 @@
 title: "A tale of spinors and positive energy theorems"
 collection: academicWork
 permalink: /academicWork/PhDThesis
-excerpt: "My PhD thesis"
+excerpt: "My PhD thesis."
 date: 2026-05-14
 paperurl: 'https://virinchirallabhandi.github.io/pdfs/PhDThesis.pdf'
 ---
