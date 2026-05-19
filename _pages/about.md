@@ -8,4 +8,4 @@ redirect_from:
 
 ![Making a floor speech at the Cambridge Union](/images/cambridgeUnionPhoto.jpeg "Making a floor speech at the Cambridge Union")
 
-I am a mathematical physics student from Perth, Australia. I am currently studying for a PhD at the University of Edinburgh, under the supervision of James Lucietti. I have been exploring various topics in general relativity, with a particular focus on positive energy theorems and quasilocal mass. This is my personal webpage, containing both academic and non-academic endeavours.
+I am a mathematical relativist from Perth, Australia. In May, 2026, I completed my PhD at the University of Edinburgh under the supervision of James Lucietti. I am interested in various topics in general relativity and differential geometry, with a particular focus on quasilocal mass, positive energy theorems and spinor methods. This is my personal webpage, containing both academic and non-academic endeavours.
